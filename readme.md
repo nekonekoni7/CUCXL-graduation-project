@@ -6,4 +6,4 @@
 
 ### 2. Weekly Notes 
 
-- 2021-12-28 [[LINK]](week1/week 1 task.md)
+- 2021-12-28 [[LINK]](week 1/week 1 task.md)
